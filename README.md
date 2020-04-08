@@ -1,2 +1,2 @@
 # 1-DevProject
-Getting started with HTML
+Getting started with HTML/CSS
